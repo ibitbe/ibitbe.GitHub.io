@@ -1,12 +1,12 @@
 {
-  "name": "long-haul",
+  "name": "Mr.Chang的个人博客",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "欢迎光临我的博客. ",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Maier Jr.",
+  "author": "Mr.Chang",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^1.3.7",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianmaierjr/long-haul.git"
+    "url": "https://github.com/ibitbe/ibitbe.github.io.git"
   },
   "keywords": [
     "jekyll",
