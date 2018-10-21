@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "区块链2018-10-21快讯"
+title: "区块链2018-10-21日快讯"
 date:  
 description: 这里有你想了解的区块链新闻
 ---
