@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "not all arguments converted during string formatting"
+title:  "python往postgresql数据库插入数据出错"
 date:   2018-10-21 17:09:30
-description: python往postgresql数据库插入数据出错
+description: not all arguments converted during string formatting
 ---
 
 
