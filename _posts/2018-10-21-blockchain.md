@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "区块链2018-10-21日快讯"
-date:  
+date:  2018-10-21 17:09:30
 description: 这里有你想了解的区块链新闻
 ---
 [业内人士评论《区块链信息服务管理规定》：伪区块链的节点要难过了](https://www.8btc.com/article/294738)
