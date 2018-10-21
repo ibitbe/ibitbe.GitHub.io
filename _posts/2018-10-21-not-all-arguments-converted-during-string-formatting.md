@@ -6,11 +6,11 @@ description: python往postgresql数据库插入数据出错
 ---
 
 
-{% highlight python %}
+```python
 
 cur.execute("INSERT INTO foo VALUES (%s)", "bar")    # WRONG
 cur.execute("INSERT INTO foo VALUES (%s)", ("bar"))  # WRONG
 cur.execute("INSERT INTO foo VALUES (%s)", ("bar",)) # correct
 cur.execute("INSERT INTO foo VALUES (%s)", ["bar"])  # correct
 
-{% endhighlight %}
+```
