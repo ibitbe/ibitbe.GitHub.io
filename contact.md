@@ -10,12 +10,12 @@ title: Contact Mr.Chang
   </div>
   <form action="https://formspree.io/robbenemi@outlook.com" method="POST">
     <label for="name">名字</label>
-    <input type="text" id="name" name="name" class="full-width"><br>
+    <input type="text" id="name" name="名字" class="full-width"><br>
     <label for="email">邮箱地址</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <input type="email" id="email" name="收件人" class="full-width"><br>
     <label for="message">信息</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="发送" name="submit" class="button">
+    <textarea name="消息内容" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+    <input type="submit" value="发送" name="提交" class="button">
   </form>
 </div>
 
