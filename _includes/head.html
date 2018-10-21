@@ -5,15 +5,6 @@
     <meta name="description" content="">
     <title>{{ page.title }}</title>
 
-    <!-- google adsense-->
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-3136189502549864",
-      enable_page_level_ads: true
-    });
-    </script>
-    
     <!-- Open Graph Meta -->
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
@@ -83,4 +74,5 @@
     <script src="{{ "/assets/js/modernizr.custom.15390.js" | prepend: site.baseurl }}" type="text/javascript"></script>
 
     {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
+    {% if site.google_ad_client %} {% include google_adsense.html %} {% endif %}
 </head>
