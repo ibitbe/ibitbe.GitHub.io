@@ -6,9 +6,9 @@ title: Contact Mr.Chang
 <div id="contact">
   <h1 class="pageTitle">联系我</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:robbenemi@outlook.com">发送邮件给我</a> or create an issue on <a href="https://github.com/ibitbe.github.io">GitHub</a>. Enjoy!</p>
+    <p class="intro">如果本人的博客给您带来了价值，欢迎微信打赏</p>
+    <p>![](assets/img/wx.jpg)</p>
+    <p>如果您有什么问题，欢迎 <a href="mailto:robbenemi@outlook.com">发送邮件给我</a> 或者在 <a href="https://github.com/ibitbe.github.io">GitHub</a>上面提出问题!</p>
   </div>
   <form action="https://formspree.io/robbenemi@outlook.com" method="POST">
     <label for="name">名字</label>
