@@ -9,7 +9,7 @@ title: Contact Mr.Chang
     <p class="intro">如果本人的博客给您带来了价值，欢迎微信打赏</p>
     <p>
       <figure>
-        <img src="{{ '/assets/img/wx.jpg'}}" alt="微信支付"> 
+        <img src="{{ '/assets/img/wx.jpg'}}" alt="微信支付" width="200" height="200"> 
       </figure>
     </p>
     <p>如果您有什么问题，欢迎 <a href="mailto:robbenemi@outlook.com">发送邮件给我</a> 或者在 <a href="https://github.com/ibitbe.github.io">GitHub</a>上面提出问题!</p>
