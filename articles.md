@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: https://ibitbe.com
 ---
 
 <div id="articles">
