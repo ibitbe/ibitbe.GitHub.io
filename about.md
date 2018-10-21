@@ -4,10 +4,11 @@ title: 关于Mr.Chang的个人博客
 ---
 
 <div class="post">
-	<h1 class="pageTitle">关于Mr.Chang的个人博客</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">这是个基于 <a href="http://jekyllrb.com">Jekyll</a> 主题的个人博客</p>
-	<p>非常欢迎光临</p>
+	<h2 class="pageTitle">关于Mr.Chang的个人博客</h2>
+  <p class="intro">如果本人的博客给您带来了价值，欢迎打赏</p>
+  <img src="{{ '/assets/img/wx.jpg'}}" alt="微信支付" width="600" height="600"> 
+  <img src="{{ '/assets/img/zfb.jpg'}}" alt="支付宝支付" width="600" height="600"> 
+
 	<h2>特征</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
