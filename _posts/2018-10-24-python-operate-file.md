@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "python对文件的操作"
-date:    2018年10月24日11:11:49
+date:    2018-10-24 11:11:49
 description: Python file path
 ---
 
