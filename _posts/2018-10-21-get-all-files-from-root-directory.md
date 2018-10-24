@@ -7,6 +7,7 @@ description: Python dir path files
 
 
 ```python
+import os
 for dirpath,dirnames,filenames in os.walk('D:\\'):
     for name in filenames:
         f = os.path.join(dirpath,name)
