@@ -15,7 +15,7 @@ navigation:
  - title: 主页
    url: /index.html
  - title: 归档
-   url: /archive.html
+   url: /archive
  - title: 关于
    url: /about
  - title: 联系我
