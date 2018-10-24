@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "python发送邮件给多人"
-date:   2018-10-21 17:16:30
+date:   2018-10-24 17:16:30
 description: 亲测qq邮箱可以，网易邮箱不行
 ---
 ```python
