@@ -8,9 +8,6 @@ description: 亲测qq邮箱可以，网易邮箱不行
 import smtplib
 from email.mime.text import MIMEText
 
-sender = '***'
-passwd = '***'
-
 sender = 'aaa@qq.com'
 passwd = '****'
 receiver = ["aaaaa@outlook.com","bbbbb@outlook.com"] # 多个收件人放在一个list里面
