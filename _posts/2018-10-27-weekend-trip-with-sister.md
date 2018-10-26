@@ -2,6 +2,7 @@
 layout: post
 title:  "和姐去游玩"
 date:   2018-10-27
+description: 出去玩总有好玩的！
 image: benchpark.jpg
 ---
 
